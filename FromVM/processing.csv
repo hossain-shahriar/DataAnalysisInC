@@ -1,0 +1,101 @@
+Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+1,Wii Sports,Wii,2006,Sports,Nintendo,41.489998,29.020000,3.770000,8.460000,82.739998
+2,Super Mario Bros.,NES,1985,Platform,Nintendo,29.080000,3.580000,6.810000,0.770000,40.240002
+3,Mario Kart Wii,Wii,2008,Racing,Nintendo,15.850000,12.880000,3.790000,3.310000,35.820000
+4,Wii Sports Resort,Wii,2009,Sports,Nintendo,15.750000,11.010000,3.280000,2.960000,33.000000
+5,Pokemon Red/Pokemon Blue,GB,1996,Role-Playing,Nintendo,11.270000,8.890000,10.220000,1.000000,31.370001
+6,Tetris,GB,1989,Puzzle,Nintendo,23.200001,2.260000,4.220000,0.580000,30.260000
+7,New Super Mario Bros.,DS,2006,Platform,Nintendo,11.380000,9.230000,6.500000,2.900000,30.010000
+8,Wii Play,Wii,2006,Misc,Nintendo,14.030000,9.200000,2.930000,2.850000,29.020000
+9,New Super Mario Bros. Wii,Wii,2009,Platform,Nintendo,14.590000,7.060000,4.700000,2.260000,28.620001
+10,Duck Hunt,NES,1984,Shooter,Nintendo,26.930000,0.629999,0.280000,0.470000,28.309999
+11,Nintendogs,DS,2005,Simulation,Nintendo,9.070000,11.000000,1.930000,2.750000,24.760000
+12,Mario Kart DS,DS,2005,Racing,Nintendo,9.810000,7.570000,4.130000,1.909999,23.420000
+13,Pokemon Gold/Pokemon Silver,GB,1999,Role-Playing,Nintendo,9.000000,6.180000,7.200000,0.710000,23.100000
+14,Wii Fit,Wii,2007,Sports,Nintendo,8.940001,8.030000,3.600000,2.150000,22.719999
+15,Wii Fit Plus,Wii,2009,Sports,Nintendo,9.090000,8.590000,2.530000,1.790000,22.000000
+16,Kinect Adventures!,X360,2010,Misc,Microsoft Game Studios,14.970000,4.940000,0.240000,1.670000,21.820000
+17,Grand Theft Auto V,PS3,2013,Action,Take-Two Interactive,7.010000,9.270000,0.979999,4.140000,21.400000
+18,Grand Theft Auto: San Andreas,PS2,2004,Action,Take-Two Interactive,9.430000,0.400000,0.410000,10.570000,20.809999
+19,Super Mario World,SNES,1990,Platform,Nintendo,12.780000,3.750000,3.540000,0.540001,20.610001
+20,Brain Age: Train Your Brain in Minutes a Day,DS,2005,Misc,Nintendo,4.750000,9.260000,4.160000,2.050000,20.219999
+21,Pokemon Diamond/Pokemon Pearl,DS,2006,Role-Playing,Nintendo,6.420000,4.520000,6.040000,1.370000,18.360001
+22,Super Mario Land,GB,1989,Platform,Nintendo,10.830000,2.710000,4.180000,0.420000,18.139999
+23,Super Mario Bros. 3,NES,1988,Platform,Nintendo,9.540000,3.440001,3.840000,0.460000,17.280001
+24,Grand Theft Auto V,X360,2013,Action,Take-Two Interactive,9.630000,5.310000,0.059999,1.380000,16.379999
+25,Grand Theft Auto: Vice City,PS2,2002,Action,Take-Two Interactive,8.410000,5.490000,0.470000,1.780000,16.150000
+26,Pokemon Ruby/Pokemon Sapphire,GBA,2002,Role-Playing,Nintendo,6.060000,3.900000,5.380000,0.510001,15.850000
+27,Pokemon Black/Pokemon White,DS,2010,Role-Playing,Nintendo,5.570000,3.280000,5.650000,0.820000,15.320000
+28,Brain Age 2: More Training in Minutes a Day,DS,2005,Puzzle,Nintendo,3.440000,5.360000,5.320000,1.180000,15.300000
+29,Gran Turismo 3: A-Spec,PS2,2001,Racing,Sony Computer Entertainment,6.850000,5.090000,1.870000,1.160000,14.980000
+30,Call of Duty: Modern Warfare 3,X360,2011,Shooter,Activision,9.030000,4.280000,0.130000,1.320000,14.760000
+31,Pokemon Yellow: Special Pikachu Edition,GB,1998,Role-Playing,Nintendo,5.890000,5.040000,3.120000,0.590000,14.640000
+32,Call of Duty: Black Ops,X360,2010,Shooter,Activision,9.670000,3.730000,0.110000,1.130000,14.640000
+33,Pokemon X/Pokemon Y,3DS,2013,Role-Playing,Nintendo,5.170000,4.050000,4.340000,0.790000,14.350000
+34,Call of Duty: Black Ops 3,PS4,2015,Shooter,Activision,5.770000,5.810000,0.350000,2.310000,14.240000
+35,Call of Duty: Black Ops II,PS3,2012,Shooter,Activision,4.990000,5.870000,0.650000,2.520000,14.030000
+36,Call of Duty: Black Ops II,X360,2012,Shooter,Activision,8.250000,4.300000,0.070000,1.120000,13.730000
+37,Call of Duty: Modern Warfare 2,X360,2009,Shooter,Activision,8.520000,3.630000,0.080000,1.290000,13.510000
+38,Call of Duty: Modern Warfare 3,PS3,2011,Shooter,Activision,5.530000,5.820000,0.490000,1.620000,13.460000
+39,Grand Theft Auto III,PS2,2001,Action,Take-Two Interactive,6.990000,4.510000,0.300000,1.300000,13.100000
+40,Super Smash Bros. Brawl,Wii,2008,Fighting,Nintendo,6.750000,2.610000,2.660000,1.020000,13.040000
+41,Call of Duty: Black Ops,PS3,2010,Shooter,Activision,5.980000,4.440000,0.480000,1.830000,12.730000
+42,Animal Crossing: Wild World,DS,2005,Simulation,Nintendo,2.550000,3.520000,5.330000,0.870000,12.270000
+43,Mario Kart 7,3DS,2011,Racing,Nintendo,4.740000,3.910000,2.670000,0.890000,12.210000
+44,Halo 3,X360,2007,Shooter,Microsoft Game Studios,7.970000,2.830000,0.130000,1.210000,12.140000
+45,Grand Theft Auto V,PS4,2014,Action,Take-Two Interactive,3.800000,5.810000,0.360000,2.020000,11.980000
+46,Pokemon HeartGold/Pokemon SoulSilver,DS,2009,Action,Nintendo,4.400000,2.770000,3.960000,0.770000,11.900000
+47,Super Mario 64,N64,1996,Platform,Nintendo,6.910000,2.850000,1.900001,0.230000,11.890000
+48,Gran Turismo 4,PS2,2004,Racing,Sony Computer Entertainment,3.010000,0.010000,1.100000,7.530000,11.660000
+49,Super Mario Galaxy,Wii,2007,Platform,Nintendo,6.160000,3.400000,1.200000,0.760000,11.520000
+50,Pokemon Omega Ruby/Pokemon Alpha Sapphire,3DS,2014,Role-Playing,Nintendo,4.230000,3.370000,3.080000,0.650000,11.330000
+51,Super Mario Land 2: 6 Golden Coins,GB,1992,Adventure,Nintendo,6.160000,2.040000,2.690000,0.290000,11.180000
+52,Grand Theft Auto IV,X360,2008,Action,Take-Two Interactive,6.760000,3.100000,0.140000,1.030000,11.020000
+53,Gran Turismo,PS,1997,Racing,Sony Computer Entertainment,4.020000,3.870000,2.540000,0.520000,10.950000
+54,Super Mario 3D Land,3DS,2011,Platform,Nintendo,4.890000,2.990000,2.130000,0.780000,10.790000
+55,Gran Turismo 5,PS3,2010,Racing,Sony Computer Entertainment,2.960000,4.880000,0.810000,2.120000,10.770000
+56,Call of Duty: Modern Warfare 2,PS3,2009,Shooter,Activision,4.990000,3.690000,0.380000,1.630000,10.690000
+57,Grand Theft Auto IV,PS3,2008,Action,Take-Two Interactive,4.760000,3.760000,0.440000,1.620000,10.570000
+58,Super Mario All-Stars,SNES,1993,Platform,Nintendo,5.990000,2.150001,2.120000,0.290000,10.550000
+59,Pokemon FireRed/Pokemon LeafGreen,GBA,2004,Role-Playing,Nintendo,4.340000,2.650000,3.150000,0.350000,10.490000
+60,Super Mario 64,DS,2004,Platform,Nintendo,5.080000,3.110000,1.250000,0.980000,10.420000
+61,Just Dance 3,Wii,2011,Misc,Ubisoft,6.050000,3.140000,0.000000,1.070000,10.260000
+62,Call of Duty: Ghosts,X360,2013,Shooter,Activision,6.720000,2.630000,0.040000,0.820000,10.210000
+63,Halo: Reach,X360,2010,Shooter,Microsoft Game Studios,7.030000,1.980000,0.080000,0.780000,9.880000
+64,Mario Kart 64,N64,1996,Racing,Nintendo,5.550000,1.940000,2.230000,0.150000,9.870000
+65,New Super Mario Bros. 2,3DS,2012,Platform,Nintendo,3.660000,3.070000,2.470000,0.630000,9.820000
+66,Halo 4,X360,2012,Shooter,Microsoft Game Studios,6.630000,2.360000,0.040000,0.730000,9.760000
+67,Final Fantasy VII,PS,1997,Role-Playing,Sony Computer Entertainment,3.010000,2.470000,3.280000,0.960000,9.720000
+68,Call of Duty: Ghosts,PS3,2013,Shooter,Activision,4.090000,3.730000,0.380000,1.380000,9.590000
+69,Just Dance 2,Wii,2010,Misc,Ubisoft,5.840000,2.890000,0.010000,0.780000,9.520000
+70,Gran Turismo 2,PS,1999,Racing,Sony Computer Entertainment,3.880000,3.420000,1.690000,0.500000,9.490000
+71,Call of Duty 4: Modern Warfare,X360,2007,Shooter,Activision,5.910000,2.380000,0.130000,0.900000,9.320000
+72,Donkey Kong Country,SNES,1994,Platform,Nintendo,4.360000,1.710000,3.000000,0.230000,9.300000
+73,Minecraft,X360,2013,Misc,Microsoft Game Studios,5.580000,2.830000,0.020000,0.770000,9.200000
+74,Animal Crossing: New Leaf,3DS,2012,Simulation,Nintendo,2.010000,2.320000,4.360000,0.410000,9.090000
+75,Mario Party DS,DS,2007,Misc,Nintendo,4.460000,1.880000,1.980000,0.700000,9.020000
+76,The Elder Scrolls V: Skyrim,X360,2011,Role-Playing,Bethesda Softworks,5.030000,2.860000,0.100000,0.850000,8.840000
+77,Super Mario Kart,SNES,1992,Racing,Nintendo,3.540000,1.240000,3.810000,0.180000,8.760000
+78,FIFA 16,PS4,2015,Sports,Electronic Arts,1.110000,6.059999,0.060000,1.260000,8.490000
+79,Wii Party,Wii,2010,Misc,Nintendo,1.790000,3.530000,2.490000,0.680000,8.490000
+80,Halo 2,XB,2004,Shooter,Microsoft Game Studios,6.820000,1.530000,0.050000,0.080000,8.490000
+81,Mario Party 8,Wii,2007,Misc,Nintendo,3.810000,2.300000,1.580000,0.730000,8.420000
+82,Pokemon Black 2/Pokemon White 2,DS,2012,Role-Playing,Nintendo,2.910000,1.860000,3.140000,0.430000,8.330000
+83,FIFA Soccer 13,PS3,2012,Action,Electronic Arts,1.060000,5.050000,0.130000,2.010000,8.240000
+84,The Sims 3,PC,2009,Simulation,Electronic Arts,0.980000,6.420000,0.000000,0.710000,8.110000
+85,GoldenEye 007,N64,1997,Shooter,Nintendo,5.800000,2.010000,0.130000,0.150000,8.090000
+86,Mario & Sonic at the Olympic Games,Wii,2007,Sports,Sega,2.580000,3.900000,0.660000,0.910000,8.060000
+87,Final Fantasy X,PS2,2001,Role-Playing,Sony Computer Entertainment,2.910000,2.070000,2.730000,0.330000,8.050000
+88,Final Fantasy VIII,PS,1999,Role-Playing,SquareSoft,2.280000,1.720000,3.630000,0.230000,7.860000
+89,Pokemon Platinum Version,DS,2008,Role-Playing,Nintendo,2.820000,1.780000,2.690000,0.550000,7.840000
+90,Pac-Man,2600,1982,Puzzle,Atari,7.280000,0.450000,0.000000,0.080000,7.810000
+91,Grand Theft Auto: Liberty City Stories,PSP,2005,Action,Take-Two Interactive,2.900000,2.830000,0.240000,1.750000,7.720000
+92,Super Mario Galaxy 2,Wii,2010,Platform,Nintendo,3.660000,2.410000,0.980000,0.640000,7.690000
+93,Star Wars Battlefront (2015),PS4,2015,Shooter,Electronic Arts,2.930000,3.290000,0.220000,1.230000,7.670000
+94,Call of Duty: Advanced Warfare,PS4,2014,Shooter,Activision,2.800000,3.300000,0.140000,1.360000,7.600000
+95,The Legend of Zelda: Ocarina of Time,N64,1998,Action,Nintendo,4.100000,1.890000,1.450000,0.160000,7.600000
+96,Crash Bandicoot 2: Cortex Strikes Back,PS,1997,Platform,Sony Computer Entertainment,3.780000,2.170000,1.310000,0.310000,7.580000
+97,Super Mario Bros. 2,NES,1988,Platform,Nintendo,5.390000,1.180000,0.700000,0.190000,7.460000
+98,Super Smash Bros. for Wii U and 3DS,3DS,2014,Fighting,Nintendo,3.240000,1.350000,2.420000,0.430000,7.450000
+99,Call of Duty: World at War,X360,2008,Shooter,Activision,4.790000,1.890000,0.000000,0.690000,7.370000
+100,Battlefield 3,X360,2011,Shooter,Electronic Arts,4.460000,2.130000,0.060000,0.690000,7.340000

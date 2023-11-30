@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "system_error": "c",
+        "lab13.h": "c",
+        "stdio.h": "c",
+        "random": "c",
+        "chrono": "c"
+    }
+}
